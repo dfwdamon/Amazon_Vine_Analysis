@@ -7,4 +7,6 @@ The purpose of this analysis was to look at a dataset of video game reviews obta
 Data Sources: [Amazon Data Review Sets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Digital_Video_Games_v1_00.tsv.gz) 
 
 ## Results
-
+<p align="center">
+    <br>  <b> Analysis Results</b>  </br>
+<img src="https://github.com/dfwdamon/Amazon_Vine_Analysis/Reviews.png" width="625" height="500"/>
