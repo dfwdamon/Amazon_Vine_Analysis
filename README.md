@@ -17,7 +17,7 @@ The analysis focused on answering the following questions with regard to the vid
 
 There were a total of 94 Vine reviews that were deemed helpful. Meaning the video game review had over 50 percent of its votes marked as "helpful" by other reviewers. There were a total of 40,565 reviews in all, and of those, 15,711 where 5 star reviews. 
 
-Of the 94 Vine reviews, 48 were noted as paid reviews. This equates to 51% of the Vine reviews were 5 stars! In comparison, there were a total of 40,565 reviews in all that were deemed helpful (a 50 percent viewer feedback).  And of those 40k, there were 15,711 5 star reviews.  This equates to a 38% of all reviews being 5 star.  
+Of the 94 Vine reviews, 48 were noted as paid reviews. This equates to 51% of the Vine reviews were 5 stars! In comparison, there were a total of 40,565 reviews in all that were deemed helpful (50 percent viewer votes).  And of those 40k, there were 15,711 5 star reviews.  This equates to a 38% of all reviews being 5 star.  
 
 When comparing the percent of Vine 5 star reviews to the percent of all reviews, 51% vs 38%, the analysis reveals a strong bias towards paid reviews overall. See the analysis calculations and results graphic below.
 
@@ -26,4 +26,4 @@ When comparing the percent of Vine 5 star reviews to the percent of all reviews,
 <img src="https://github.com/dfwdamon/Amazon_Vine_Analysis/blob/main/Reviews.png" width="625" height="500"/>
 
 ## Summary
-
+The percentage of 5 star reviews for Vine customers was considerably higher than those of regular reviews.  The difference is significant as paid reviews are higher based on 5 star ratings since by being more than half, at 51%.  However, the  small set of vine reviews in all, being only 94 is a small data set when compared to all game reviews.  A larger dataset of vine reviews would likely reveal more or less bias.  Regular 5 star review data would suggest less bias both because the dataset is much larger, and there are non-paid reviews in that set.  Comparing other product review datasets of paid reviews, to the Vine review data could help show if bias is stronger toward small and larger paid and unpaid datasets.
